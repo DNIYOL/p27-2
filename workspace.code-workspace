@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../CHROMEWEBSERVER/myRecipes"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../CHROMEWEBSERVER/MatterJSBoilerPlate-master"
+		},
+		{
+			"path": "../AngryBirdsStage4-master"
+		},
+		{
+			"path": "../../Downloads/c29-main"
+		},
+		{
+			"path": "../-c30s-main"
+		},
+		{
+			"path": "../C28-student-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-master"
+	}
+}
